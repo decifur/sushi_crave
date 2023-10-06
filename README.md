@@ -5,6 +5,8 @@ Welcome to the Sushi Crave project! This is a simple and elegant landing page de
 ## Demo
 Check out the live demo of the cloned website here:
 
+Link: https://decifur.github.io/sushi_crave/
+
 
 
 https://github.com/decifur/sushi_crave/assets/90095692/7a699bf3-d5c5-48e9-921f-eef94f84814c
