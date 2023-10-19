@@ -62,4 +62,4 @@ Feel free to use this project as a template or reference for your own web develo
 
 We welcome contributions from the community to improve this project. If you have ideas for new features, improvements, or any bug fixes, please open an issue or submit a pull request.
 
-Enjoy exploring the world of Japanese cuisine with our **Sushi Crave** website! If you have any questions or feedback, please don't hesitate to reach out. We hope you find this project inspiring and informative.
+Enjoy exploring the world of Japanese cuisine with our **Sushi Crave** website! If you have any questions or feedback, please don't hesitate to reach out. I hope you find this project inspiring and informative.
